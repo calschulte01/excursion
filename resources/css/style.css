@@ -3,3 +3,10 @@ body {
     align-items: center;
 }
 
+.header-main {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
